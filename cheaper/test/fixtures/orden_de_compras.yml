@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  realizado: false
+  fechaEntrega: 2012-09-22 19:33:52
+  puntoEntrega: MyString
+
+two:
+  realizado: false
+  fechaEntrega: 2012-09-22 19:33:52
+  puntoEntrega: MyString
