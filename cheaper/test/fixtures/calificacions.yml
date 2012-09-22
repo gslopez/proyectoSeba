@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  texto: MyText
+  numero: 1
+  vendedor: 1
+  comprador: 1
+
+two:
+  texto: MyText
+  numero: 1
+  vendedor: 1
+  comprador: 1
