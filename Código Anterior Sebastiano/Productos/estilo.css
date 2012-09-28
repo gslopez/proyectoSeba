@@ -1,0 +1,30 @@
+html,body{
+margin:0px;
+}
+img.logo{
+	margin-left:80px;
+}
+form.login{
+	position:absolute;
+	right:100px;
+	top: 10px;
+	}
+p.red 
+{
+border-style:solid;
+border-color:red;
+}
+table.green 
+{
+border-style:solid;
+border-color:#98bf21;
+}
+a.registro{
+	position:absolute;
+	right:20px;
+	top: 12px;
+}
+div.todo{
+	position:relative;
+	top: 70px;
+}
