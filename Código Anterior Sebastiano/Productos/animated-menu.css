@@ -1,0 +1,31 @@
+body{
+	font-family:"Lucida Grande", arial, sans-serif;
+	background:#F3F3F3;
+}
+
+ul.estructural{
+	margin:0;
+	padding:0;
+}
+
+li.li{
+	width:200px;
+	height:0px;
+	float:left;
+	color:#191919;
+	overflow:hidden;
+}
+ul.listas{
+	padding: 10px;
+}
+a{
+	color:#FFF;
+}
+p.subtitulo{
+	text-align: center;
+	margin-top: 10px;
+}
+
+
+/*Menu Color Classes*/
+li.li{background:url('fondotrans.png') top left no-repeat;}
